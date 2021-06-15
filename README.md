@@ -1,4 +1,7 @@
-### Hi there 👋
+### 21 | CS Undergrad | Rajalakshmi Institute of Technology
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenoffl&show_icons=true&theme=tokyonight)
+
 
 <!--
 **narenoffl/narenoffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
