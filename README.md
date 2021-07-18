@@ -1,5 +1,7 @@
 ### 21 | CS Undergrad | Rajalakshmi Institute of Technology
 
+### Glad to see you here! &nbsp; ![Vistor Badge](https://visitor-badge.glitch.me/badge?page_id=narenoffl.narenoffl&style=flat-square&color=0088cc)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenoffl&show_icons=true&theme=tokyonight)
 
 
