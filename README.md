@@ -1,4 +1,4 @@
-### 22 | CS Undergrad | Rajalakshmi Institute of Technology
+### 23 | CS Undergrad | Rajalakshmi Institute of Technology
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narenoffl&show_icons=true&theme=tokyonight)
